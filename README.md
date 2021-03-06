@@ -1,14 +1,16 @@
-*Mauritiella* and Lepidocaryeae notebook repository
+*Mauritiella* and Lepidocaryeae notebook repository  
 -------------
 
-This repository stores the code associated with the project:
+This repository stores the code associated with the project:  
 
 **Molecular Phylogenetics of the Palm Tribe Lepidocaryeae (Calamoideae: Arecaceae) and Description of a New Species of *Mauritiella***
 =============
 
-Authors: **Maria Fernanda Torres Jiménez<sup>1,2</sup>\***, Eduardo M.B. Prata<sup>3</sup>\*, Alexander Zizka<sup>4,5</sup>, Mario Cohn-Haft<sup>3</sup>, Ayslaner V.G. de Oliveira<sup>6</sup>, Thaise Emilio<sup>7</sup>, Nicolas Chazot<sup>1,2,8</sup>, Thomas L.P. Couvreur<sup>9</sup>, Suzanne Mogue Kamga<sup>10</sup>, Bonaventure Sonké<sup>10</sup>, Ángela Cano<sup>11</sup>, Rosane G. Collevatti<sup>12</sup>, Benedikt G. Kuhnhäuser<sup>13,14</sup>, William J. Baker<sup>13</sup>, Alexandre Antonelli<sup>1,2,13,14</sup>, Christine D. Bacon<sup>1,2,15<sup>
+Authors:  
+**Maria Fernanda Torres Jiménez<sup>1,2</sup>\***, Eduardo M.B. Prata<sup>3</sup>\*, Alexander Zizka<sup>4,5</sup>, Mario Cohn-Haft<sup>3</sup>, Ayslaner V.G. de Oliveira<sup>6</sup>, Thaise Emilio<sup>7</sup>, Nicolas Chazot<sup>1,2,8</sup>, Thomas L.P. Couvreur<sup>9</sup>, Suzanne Mogue Kamga<sup>10</sup>, Bonaventure Sonké<sup>10</sup>, Ángela Cano<sup>11</sup>, Rosane G. Collevatti<sup>12</sup>, Benedikt G. Kuhnhäuser<sup>13,14</sup>, William J. Baker<sup>13</sup>, Alexandre Antonelli<sup>1,2,13,14</sup>, Christine D. Bacon<sup>1,2,15<sup>
 
-**Author institutions:**
+
+Author institutions:  
 <sup>1</sup> Gothenburg Global Biodiversity Centre, SE-405 30 Gothenburg, Sweden  
 <sup>2</sup> Department of Biological and Environmental Sciences, University of Gothenburg, SE-405 30 Gothenburg, Sweden  
 <sup>3</sup> Instituto Nacional de Pesquisas da Amazônia, CEP 69011-970 Manaus, Brazil  
